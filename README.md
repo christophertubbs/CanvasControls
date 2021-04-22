@@ -15,5 +15,10 @@ Basically, the idea is to implement form controls, like those found in winforms,
 - [ ] Date/Time selector
 - [ ] Tabs
 - [ ] Tree
+- [ ] Split Pane
+- [ ] Radio Buttons
+- [ ] Table
+- [ ] Combo Box
+- [ ] List
 
 Some sort of layout tools (json maybe?) will also be important.
